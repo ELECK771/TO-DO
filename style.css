@@ -1,0 +1,23 @@
+.todoList {
+    align-items: center;
+    background: #ffffff;
+    padding: 5px;
+    border-bottom: 1px solid gray;
+    border-radius: 5px;
+    height: auto;
+    width: 100%;
+    box-shadow: 5px 5px rgb(0, 0, 1, 0.5);
+    font-weight: bold;
+    flex-wrap: wrap;
+}
+
+.deleteTask {
+    cursor: pointer;
+    text-align:center;
+    align-items: center;
+    background-color: orangered;
+    color: white;
+
+
+
+}
